@@ -3,9 +3,9 @@
 	"id": "road-network",
 	"version": "${version}",
 	"name": "Road Network",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Autonomous, civil-engineered road networks connecting villages and major structures with terrain-conforming paths, arched river bridges, Roman barrel vault mountain tunnels, and biome-adaptive aesthetics.",
 	"authors": [
-		"Me!"
+		"Trinankur"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
