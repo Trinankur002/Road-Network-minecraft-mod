@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "minecraft:pillager_outpost", "required": false },
+    { "id": "minecraft:desert_pyramid", "required": false },
+    { "id": "minecraft:jungle_pyramid", "required": false },
+    { "id": "minecraft:swamp_hut", "required": false },
+    { "id": "minecraft:igloo", "required": false },
+    { "id": "minecraft:mansion", "required": false },
+    { "id": "minecraft:trail_ruins", "required": false }
+  ]
+}

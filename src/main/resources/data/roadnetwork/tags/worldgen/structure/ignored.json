@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    { "id": "minecraft:shipwreck", "required": false },
+    { "id": "minecraft:shipwreck_beached", "required": false },
+    { "id": "minecraft:ocean_ruin_cold", "required": false },
+    { "id": "minecraft:ocean_ruin_warm", "required": false },
+    { "id": "minecraft:monument", "required": false },
+    { "id": "minecraft:buried_treasure", "required": false },
+    { "id": "minecraft:ancient_city", "required": false },
+    { "id": "minecraft:stronghold", "required": false },
+    { "id": "minecraft:trial_chambers", "required": false },
+    { "id": "minecraft:mineshaft", "required": false },
+    { "id": "minecraft:mineshaft_mesa", "required": false },
+    { "id": "minecraft:fortress", "required": false },
+    { "id": "minecraft:bastion_remnant", "required": false },
+    { "id": "minecraft:end_city", "required": false },
+    { "id": "minecraft:nether_fossil", "required": false },
+    { "id": "minecraft:ruined_portal", "required": false },
+    { "id": "minecraft:ruined_portal_desert", "required": false },
+    { "id": "minecraft:ruined_portal_jungle", "required": false },
+    { "id": "minecraft:ruined_portal_mountain", "required": false },
+    { "id": "minecraft:ruined_portal_nether", "required": false },
+    { "id": "minecraft:ruined_portal_ocean", "required": false },
+    { "id": "minecraft:ruined_portal_swamp", "required": false }
+  ]
+}
